@@ -20,4 +20,4 @@ currently under development
 
 | 📺 YouTube                                                             | 💬 Discord                                                     | 🚔 Multi Theft Auto Forum                                              |
 | :--------------------------------------------------------------------- | :------------------------------------------------------------- | :--------------------------------------------------------------------- |
-| [BEMYDRE4M Development](https://www.youtube.com/@BEMYDRE4MDevelopment) | [BEMYDRE4M Development Discord Community Server](https://discord.com/invite/Gfs84Ma8en) | [KrynxtioN](https://forum.multitheftauto.com/profile/91146-krynxtion/) |
+| [BEMYDRE4M Development](https://www.youtube.com/@BEMYDRE4MDevelopment) | [Community Server](https://discord.com/invite/Gfs84Ma8en) | [KrynxtioN](https://forum.multitheftauto.com/profile/91146-krynxtion/) |
