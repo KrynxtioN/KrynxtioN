@@ -1,4 +1,4 @@
-## BEMYDRE4M DEVELOPMENT - Indie Game Development & GTA Modding
+## BEMYDRE4M DEVELOPMENT - Indie Development & GTA Modding
 ##### by KrynxtioN
 
 ## 🎮 SAN ANDREAS APOCALYPSE — v.1.1.0
