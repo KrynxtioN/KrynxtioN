@@ -10,7 +10,7 @@ Gameserver: mtasa://179.61.132.105:22003
 
 ## 🌐 LOBBY ONE - V1
 
-A Multi-Gamemode Multiplayer Project in MTA:SA ↓
+A Multi-Gamemode Project in MTA:SA ↓
 
 currently under development
 
