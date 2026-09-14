@@ -8,16 +8,8 @@ Gameserver: mtasa://179.61.132.105:22003
 
 <img src="SAApocalypse.png" width="350">
 
-## 🌐 LOBBY ONE - V1
-
-A Multi-Gamemode Project in MTA:SA ↓
-
-currently under development
-
-<img src="LobbyOne.png" width="350">
-
 #### Socials & Links
 
-| 📺 YouTube                                                             | 💬 Discord                                                     | 🚔 Multi Theft Auto Forum                                              |
+| 📺 My YouTube Channel                                                            | 💬 My Discord Server                                                    | 🚔 Multi Theft Auto Forum Profile                                             |
 | :--------------------------------------------------------------------- | :------------------------------------------------------------- | :--------------------------------------------------------------------- |
 | [CLICK HERE](https://www.youtube.com/@BEMYDRE4MDevelopment) | [CLICK HERE](https://discord.com/invite/Gfs84Ma8en) | [CLICK HERE](https://forum.multitheftauto.com/profile/91146-krynxtion/) |
