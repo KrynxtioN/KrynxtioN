@@ -18,6 +18,6 @@ Gameserver: mtasa://179.61.132.105:22003
 
 #### Socials & Links
 
-| 📺 YouTube | 💬 Discord Server |🎮 itch.io|  🚔 My multitheftauto.com Profile|
+| 📺 YouTube | 💬 Discord Server |🎮 itch.io|  🚔 multitheftauto.com|
 |------------|------------|------------|------------|
 | [CLICK HERE](https://www.youtube.com/@BEMYDRE4MDevelopment) | [CLICK HERE](https://discord.com/invite/Gfs84Ma8en) | [CLICK HERE](https://bemydre4mdevelopment.itch.io) | [CLICK HERE](https://forum.multitheftauto.com/profile/91146-krynxtion/)|
