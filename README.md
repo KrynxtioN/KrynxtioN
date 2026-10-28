@@ -1,4 +1,4 @@
-## ✏️ BEMYDRE4M DEVELOPMENT - Indie Development and GTA Modding
+## ✏️ Indie Development and GTA Modding
 
 ##### by KrynxtioN
 
