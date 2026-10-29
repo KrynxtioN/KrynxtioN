@@ -1,8 +1,6 @@
-
-<h1 align="center">
-  ✏️ BEMYDRE4M DEVELOPMENT
-</h1>
 <p align="center">
+  <img src="BEMYDRE4MDevelopment_Logo.png" width="400">
+  <br>
   <strong>Indie Development and GTA Modding</strong>
   <br>
   <sub>by KrynxtioN</sub>
