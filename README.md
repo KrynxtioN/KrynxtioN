@@ -14,7 +14,7 @@
   <br>
   <strong>A Post-Apocalyptic MMORPG in MTA:SA</strong>
   <br>
-  <sub><a href="mtasa://179.61.132.105:22003">🎮 Gameserver</a></sub>
+  <img src="https://img.shields.io/badge/Gameserver-179.61.132.105%3A22003-555555?style=for-the-badge&labelColor=333333" alt="Gameserver: 179.61.132.105:22003">
 
   <p><img src="Divider.png" width="400" alt="Divider"></p>
 
