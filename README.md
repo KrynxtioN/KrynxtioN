@@ -4,11 +4,11 @@
 
 ### My Released Multi Theft Auto Gamemodes
 
-<a href="https://github.com/KrynxtioN/Redfield-Deathmatch"><img src="RDM_BANNER.png" width="325"></a>
-<a href="https://github.com/KrynxtioN/Redfield-Apocalypse"><img src="RA_BANNER.png" width="325"></a>
-<a href="https://github.com/KrynxtioN/Redfield-Roleplay"><img src="RR_BANNER.png" width="325"></a>
-<a href="https://github.com/KrynxtioN/Redfield-Apocalypse"><img src="RF_BANNER.png" width="325"></a>
-<a href="https://github.com/KrynxtioN/Westside-Roleplay"><img src="WR_BANNER.png" width="325"></a>   
+<a href="https://github.com/KrynxtioN/Redfield-Deathmatch"><img src="MultiTheftAuto/RedfieldDeathmatch_Banner.png" width="325"></a>
+<a href="https://github.com/KrynxtioN/Redfield-Apocalypse"><img src="MultiTheftAuto/RedfieldApocalypse_Banner.png" width="325"></a>
+<a href="https://github.com/KrynxtioN/Redfield-Roleplay"><img src="MultiTheftAuto/RedfieldRoleplay_Banner.png" width="325"></a>
+<a href="https://github.com/KrynxtioN/Redfield-Apocalypse"><img src="MultiTheftAuto/RoleplayFramework_Banner.png" width="325"></a>
+<a href="https://github.com/KrynxtioN/Westside-Roleplay"><img src="MultiTheftAuto/WestsideRoleplay_Banner.png" width="325"></a>   
 Redfield Roleplay Remastered   
 
 ## 🎮 SAN ANDREAS APOCALYPSE — v.1.1.0
