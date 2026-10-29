@@ -4,7 +4,12 @@
   <br>
   <strong>Indie Game Development & GTA Modding</strong>
   <br>
-  <sub>by KrynxtioN</sub>
+  <sub>
+  by KrynxtioN<br>
+  <a href="https://www.youtube.com/@THEREALKRYNXTION">
+    https://www.youtube.com/@THEREALKRYNXTION
+  </a>
+  </sub>
 
   <p><img src="Divider.png" width="400" alt="Divider"></p>
 
