@@ -1,6 +1,12 @@
-## ✏️ BEMYDRE4M DEVELOPMENT - Indie Development and GTA Modding
 
-##### by KrynxtioN
+<h1 align="center">
+  ✏️ BEMYDRE4M DEVELOPMENT
+</h1>
+<p align="center">
+  <strong>Indie Development and GTA Modding</strong>
+  <br>
+  <sub>by KrynxtioN</sub>
+</p>
 
 ### My Released Multi Theft Auto Gamemodes
 
