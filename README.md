@@ -16,7 +16,7 @@ Redfield Roleplay Remastered
 A Post-Apocalyptic MMORPG project in MTA:SA ↓   
 Gameserver: mtasa://179.61.132.105:22003
 
-<img src="SAApocalypse.png" width="350">
+<img src="SanAndreasApocalypse_Logo.png" width="350">
 
 #### Socials & Links
 
