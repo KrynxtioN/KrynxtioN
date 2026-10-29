@@ -7,9 +7,9 @@
 <a href="https://github.com/KrynxtioN/Redfield-Deathmatch"><img src="RDM_BANNER.png" width="325"></a>
 <a href="https://github.com/KrynxtioN/Redfield-Apocalypse"><img src="RA_BANNER.png" width="325"></a>
 <a href="https://github.com/KrynxtioN/Redfield-Roleplay"><img src="RR_BANNER.png" width="325"></a>
-<a href="https://github.com/KrynxtioN/Redfield-Apocalypse"><img src="RF_BANNER.png" width="325"></a>   
+<a href="https://github.com/KrynxtioN/Redfield-Apocalypse"><img src="RF_BANNER.png" width="325"></a>
+<a href="https://github.com/KrynxtioN/Westside-Roleplay"><img src="WR_BANNER.png" width="325"></a>   
 Redfield Roleplay Remastered   
-Westside Roleplay
 
 ## 🎮 SAN ANDREAS APOCALYPSE — v.1.1.0
 
