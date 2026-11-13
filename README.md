@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="BEMYDRE4MDevelopment_Logo.png" width="400" alt="BEMYDRE4M Development">
+
   <br>
   <strong>Indie Game Development & GTA Modding</strong>
   <br>
@@ -11,8 +11,6 @@
   </a>
   </sub>
 
-  <p><img src="Divider.png" width="400" alt="Divider"></p>
-
   <!-- SAN ANDREAS APOCALYPSE -->
 
   <img src="MultiTheftAuto/SanAndreasApocalypse_Logo.png" width="250" alt="San Andreas Apocalypse">
@@ -21,16 +19,12 @@
   <br>
   <img src="https://img.shields.io/badge/Gameserver-179.61.132.105%3A22003-555555?style=for-the-badge&labelColor=333333" alt="Gameserver: 179.61.132.105:22003">
 
-  <p><img src="Divider.png" width="400" alt="Divider"></p>
-
   <!-- MY GAMES -->
 
   <img src="MyGames_Headline.png" width="400" alt="My Games">
   <p>
     <a href="https://bemydre4mdevelopment.itch.io/sir-pumpkin"><img src="Games/SirPumpkin/SirPumpkin_Banner.png" width="325" alt="Sir Pumpkin"></a>
   </p>
-
-  <img src="Divider.png" width="400" alt="Divider">
 
   <!-- MTA GAMEMODES -->
 
