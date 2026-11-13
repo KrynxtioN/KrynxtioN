@@ -21,7 +21,9 @@
 
   <h1>My Games</h1>
   <p>
-    <a href="https://bemydre4mdevelopment.itch.io/sir-pumpkin"><img src="Games/SirPumpkin/SirPumpkin_Banner.png" width="325" alt="Sir Pumpkin"></a>
+    <a href="https://bemydre4mdevelopment.itch.io/crane-stacker"><img src="Games/CraneStacker.png" width="200" alt="CraneStacker"></a>
+    <a href="https://bemydre4mdevelopment.itch.io/head-home"><img src="Games/HeadHome.png" width="200" alt="Head Home"></a>
+    <a href="https://bemydre4mdevelopment.itch.io/sir-pumpkin"><img src="Games/SirPumpkin.png" width="200" alt="Sir Pumpkin"></a>
   </p>
 
   <!-- MTA GAMEMODES -->
