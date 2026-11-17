@@ -22,15 +22,25 @@
   <!-- MTA GAMEMODES -->
 
   <h1>Multi Theft Auto Gamemodes</h1>
-  <a href="https://github.com/KrynxtioN/Redfield-Roleplay-Remastered"><img src="MultiTheftAuto/RedfieldRoleplayRemastered_Banner.png" width="325" alt="Redfield Roleplay Remastered"></a><a href="https://github.com/KrynxtioN/Redfield-Deathmatch"><img src="MultiTheftAuto/RedfieldDeathmatch_Banner.png" width="325" alt="Redfield Deathmatch"></a>
+
+<p align="center">
+  <a href="https://github.com/KrynxtioN/Redfield-Roleplay-Remastered"><b>REDFIELD ROLEPLAY REMASTERED</b></a>
+  <br><br>
+  <a href="https://github.com/KrynxtioN/Redfield-Deathmatch"><b>REDFIELD DEATHMATCH</b></a>
+  <br><br>
+  <a href="https://github.com/KrynxtioN/Redfield-Apocalypse"><b>REDFIELD APOCALYPSE</b></a>
+  <br><br>
+  <a href="https://github.com/KrynxtioN/Redfield-Apocalypse"><b>ROLEPLAY FRAMEWORK</b></a>
+  <br><br>
+  <a href="https://github.com/KrynxtioN/Redfield-Roleplay"><b>REDFIELD ROLEPLAY</b></a>
+  <br><br>
+  <a href="https://github.com/KrynxtioN/Westside-Roleplay"><b>WESTSIDE ROLEPLAY</b></a>
   <br>
-  <a href="https://github.com/KrynxtioN/Redfield-Apocalypse"><img src="MultiTheftAuto/RedfieldApocalypse_Banner.png" width="325" alt="Redfield Apocalypse"></a><a href="https://github.com/KrynxtioN/Redfield-Apocalypse"><img src="MultiTheftAuto/RoleplayFramework_Banner.png" width="325" alt="Roleplay Framework"></a>
-  <br>
-  <a href="https://github.com/KrynxtioN/Redfield-Roleplay"><img src="MultiTheftAuto/RedfieldRoleplay_Banner.png" width="325" alt="Redfield Roleplay"></a><a href="https://github.com/KrynxtioN/Westside-Roleplay"><img src="MultiTheftAuto/WestsideRoleplay_Banner.png" width="325" alt="Westside Roleplay"></a>
+</p>
+
+<hr>
 
   <!-- SOCIALS & LINKS -->
-
-  <hr>
 
   <p>
 
