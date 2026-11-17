@@ -9,14 +9,6 @@
   </a>
   </sub>
 
-  <!-- SAN ANDREAS APOCALYPSE -->
-  <br><br>
-  <img src="MultiTheftAuto/SanAndreasApocalypse_Logo.png" width="250" alt="San Andreas Apocalypse">
-  <br>
-  <strong>A Post-Apocalyptic MMORPG in MTA:SA</strong>
-  <br>
-  <img src="https://img.shields.io/badge/Gameserver-179.61.132.105%3A22003-555555?style=for-the-badge&labelColor=333333" alt="Gameserver: 179.61.132.105:22003">
-
   <!-- MY GAMES -->
 
   <h1>My Games</h1>
