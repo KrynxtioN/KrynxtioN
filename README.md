@@ -21,7 +21,7 @@
 
   <!-- MTA GAMEMODES -->
 
-  <h1>Multi Theft Auto Gamemodes</h1>
+  <h1>My Released Multi Theft Auto Gamemodes</h1>
 
 <table align="center">
   <tr>
