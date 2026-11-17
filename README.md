@@ -23,20 +23,20 @@
 
   <h1>Multi Theft Auto Gamemodes</h1>
 
-<p align="center">
-  <a href="https://github.com/KrynxtioN/Redfield-Roleplay-Remastered"><b>REDFIELD ROLEPLAY REMASTERED</b></a>
-  <br><br>
-  <a href="https://github.com/KrynxtioN/Redfield-Deathmatch"><b>REDFIELD DEATHMATCH</b></a>
-  <br><br>
-  <a href="https://github.com/KrynxtioN/Redfield-Apocalypse"><b>REDFIELD APOCALYPSE</b></a>
-  <br><br>
-  <a href="https://github.com/KrynxtioN/Redfield-Apocalypse"><b>ROLEPLAY FRAMEWORK</b></a>
-  <br><br>
-  <a href="https://github.com/KrynxtioN/Redfield-Roleplay"><b>REDFIELD ROLEPLAY</b></a>
-  <br><br>
-  <a href="https://github.com/KrynxtioN/Westside-Roleplay"><b>WESTSIDE ROLEPLAY</b></a>
-  <br>
-</p>
+<table align="center">
+  <tr>
+    <td><a href="https://github.com/KrynxtioN/Redfield-Roleplay-Remastered">Redfield Roleplay Remastered</a></td>
+    <td><a href="https://github.com/KrynxtioN/Redfield-Deathmatch">Redfield Deathmatch</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/KrynxtioN/Redfield-Apocalypse">Redfield Apocalypse</a></td>
+    <td><a href="https://github.com/KrynxtioN/Redfield-Apocalypse">Roleplay Framework</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/KrynxtioN/Redfield-Roleplay">Redfield Roleplay</a></td>
+    <td><a href="https://github.com/KrynxtioN/Westside-Roleplay">Westside Roleplay</a></td>
+  </tr>
+</table>
 
 <hr>
 
