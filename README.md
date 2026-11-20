@@ -13,9 +13,9 @@
 
   <h1>My Games</h1>
   <p>
-    <a href="https://bemydre4mdevelopment.itch.io/head-home-2"><img src="Games/HeadHome2.png" width="200" alt="HeadHome2"></a>
+    <a href="https://bemydre4mdevelopment.itch.io/head-home-2"><img src="Games/Head_Home_2.png" width="200" alt="HeadHome2"></a>
     <a href="https://bemydre4mdevelopment.itch.io/crane-stacker"><img src="Games/CraneStacker.png" width="200" alt="CraneStacker"></a>
-    <a href="https://bemydre4mdevelopment.itch.io/head-home"><img src="Games/HeadHome.png" width="200" alt="Head Home"></a>
+    <a href="https://bemydre4mdevelopment.itch.io/head-home"><img src="Games/Head_Home.png" width="200" alt="Head Home"></a>
     <a href="https://bemydre4mdevelopment.itch.io/sir-pumpkin"><img src="Games/SirPumpkin.png" width="200" alt="Sir Pumpkin"></a>
   </p>
 
