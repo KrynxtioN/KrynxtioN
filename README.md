@@ -48,7 +48,7 @@
   <a href="https://discord.com/invite/Gfs84Ma8en"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
   <a href="https://bemydre4mdevelopment.itch.io"><img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itch.io"></a>
   <a href="https://forum.multitheftauto.com/profile/91146-krynxtion/"><img src="https://img.shields.io/badge/Multi_Theft_Auto_Forum-222222?style=for-the-badge" alt="Multi Theft Auto Forum"></a>
-  <a href="https://itsmytr.ee/krynxtion"><img src="https://img.shields.io/badge/All_My_Socials-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="All My Socials"></a>
+  <a href="https://itsmytr.ee/krynxtion"><img src="https://img.shields.io/badge/All_My_Links_in_One_Place-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="All My Socials"></a>
 
   </p>
 </div>
