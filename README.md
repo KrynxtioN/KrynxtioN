@@ -15,12 +15,12 @@
 
   <table align="center">
     <tr>
-      <td align="left"><a href="https://bemydre4mdevelopment.itch.io/crane-stacker">Crane Stacker</a></td>
       <td align="left"><a href="https://bemydre4mdevelopment.itch.io/sir-pumpkin">Sir Pumpkin</a></td>
+            <td align="left"><a href="https://bemydre4mdevelopment.itch.io/crane-stacker">Crane Stacker</a></td>
     </tr>
     <tr>
-      <td align="left"><a href="https://bemydre4mdevelopment.itch.io/head-home-2">Head Home 2</a></td>
       <td align="left"><a href="https://bemydre4mdevelopment.itch.io/head-home">Head Home</a></td>
+            <td align="left"><a href="https://bemydre4mdevelopment.itch.io/head-home-2">Head Home 2</a></td>
     </tr>
   </table>
 
