@@ -13,14 +13,14 @@
 
   <h1>My Games</h1>
 
-  <table align="center">
+  <table align="center" width="600">
     <tr>
-      <td><a href="https://bemydre4mdevelopment.itch.io/head-home-2">Head Home 2</a></td>
-      <td><a href="https://bemydre4mdevelopment.itch.io/crane-stacker">Crane Stacker</a></td>
+      <td align="center" width="50%"><a href="https://bemydre4mdevelopment.itch.io/head-home-2">Head Home 2</a></td>
+      <td align="center" width="50%"><a href="https://bemydre4mdevelopment.itch.io/crane-stacker">Crane Stacker</a></td>
     </tr>
     <tr>
-      <td><a href="https://bemydre4mdevelopment.itch.io/head-home">Head Home</a></td>
-      <td><a href="https://bemydre4mdevelopment.itch.io/sir-pumpkin">Sir Pumpkin</a></td>
+      <td align="center"><a href="https://bemydre4mdevelopment.itch.io/head-home">Head Home</a></td>
+      <td align="center"><a href="https://bemydre4mdevelopment.itch.io/sir-pumpkin">Sir Pumpkin</a></td>
     </tr>
   </table>
 
@@ -28,22 +28,22 @@
 
   <h1>My Released Multi Theft Auto Gamemodes</h1>
 
-  <table align="center">
+  <table align="center" width="600">
     <tr>
-      <td><a href="https://github.com/KrynxtioN/San-Andreas-Apocalypse">San Andreas Apocalypse</a></td>
-      <td><a href="https://github.com/KrynxtioN/Lobby-One">Lobby One</a></td>
+      <td align="center" width="50%"><a href="https://github.com/KrynxtioN/San-Andreas-Apocalypse">San Andreas Apocalypse</a></td>
+      <td align="center" width="50%"><a href="https://github.com/KrynxtioN/Lobby-One">Lobby One</a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/KrynxtioN/Redfield-Roleplay-Remastered">Redfield Roleplay Remastered</a></td>
-      <td><a href="https://github.com/KrynxtioN/Redfield-Deathmatch">Redfield Deathmatch</a></td>
+      <td align="center"><a href="https://github.com/KrynxtioN/Redfield-Roleplay-Remastered">Redfield Roleplay Remastered</a></td>
+      <td align="center"><a href="https://github.com/KrynxtioN/Redfield-Deathmatch">Redfield Deathmatch</a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/KrynxtioN/Redfield-Apocalypse">Redfield Apocalypse</a></td>
-      <td><a href="https://github.com/KrynxtioN/Redfield-Apocalypse">Roleplay Framework</a></td>
+      <td align="center"><a href="https://github.com/KrynxtioN/Redfield-Apocalypse">Redfield Apocalypse</a></td>
+      <td align="center"><a href="https://github.com/KrynxtioN/Redfield-Apocalypse">Roleplay Framework</a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/KrynxtioN/Redfield-Roleplay">Redfield Roleplay</a></td>
-      <td><a href="https://github.com/KrynxtioN/Westside-Roleplay">Westside Roleplay</a></td>
+      <td align="center"><a href="https://github.com/KrynxtioN/Redfield-Roleplay">Redfield Roleplay</a></td>
+      <td align="center"><a href="https://github.com/KrynxtioN/Westside-Roleplay">Westside Roleplay</a></td>
     </tr>
   </table>
 
