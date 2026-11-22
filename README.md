@@ -30,6 +30,10 @@
 
   <table align="center">
     <tr>
+      <td><a href="https://github.com/KrynxtioN/San-Andreas-Apocalypse">San Andreas Apocalypse</a></td>
+      <td><a href="https://github.com/KrynxtioN/Lobby-One">Lobby One</a></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/KrynxtioN/Redfield-Roleplay-Remastered">Redfield Roleplay Remastered</a></td>
       <td><a href="https://github.com/KrynxtioN/Redfield-Deathmatch">Redfield Deathmatch</a></td>
     </tr>
@@ -40,10 +44,6 @@
     <tr>
       <td><a href="https://github.com/KrynxtioN/Redfield-Roleplay">Redfield Roleplay</a></td>
       <td><a href="https://github.com/KrynxtioN/Westside-Roleplay">Westside Roleplay</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/KrynxtioN/San-Andreas-Apocalypse">San Andreas Apocalypse</a></td>
-      <td></td>
     </tr>
   </table>
 
